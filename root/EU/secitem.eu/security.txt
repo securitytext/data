@@ -1,0 +1,8 @@
+# Our security address
+Contact: https://secitem.eu/kontakt/
+
+# Our GnuPG key
+Encryption: https://secitem.eu/verify/#gnupg
+
+# Verify this security.txt file
+Signature: https://secitem.eu/.well-known/security.txt.sig

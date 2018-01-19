@@ -1,0 +1,3 @@
+Contact: info@issa.org.pl
+Encryption: https://issa.org.pl/images/public-key/ISSA_Polska_public.asc
+Policy: https://issa.org.pl/it/dokumenty/polityka-prywatnosci

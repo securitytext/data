@@ -1,0 +1,8 @@
+# security.txt - https://tools.ietf.org/html/draft-foudil-securitytxt-00
+
+# Our security address
+
+Contact: micsko.gabor@hup.hu
+Encryption: https://hup.hu/old/trey/gmicsko.asc
+
+
