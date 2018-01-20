@@ -1,0 +1,4 @@
+Contact: security@srcr.nl
+Contact: https://twitter.com/srcr
+Encryption: https://keybase.io/srcr
+signature: https://srcr.nl/.well-known/security.txt.sig
