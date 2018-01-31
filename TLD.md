@@ -2,7 +2,7 @@
 
 
 
-_Last updated at 2018-01-23 07:30:21 by [securitytext.org](https://securitytext.org)._
+_Last updated at 2018-01-31 08:37:10 by [securitytext.org](https://securitytext.org)._
 
 
 
@@ -154,6 +154,8 @@ The following top level domain prefixes are supported:
 * ac.ir
 
 * ac.jp
+
+* ac.ke
 
 * ac.kr
 
@@ -2392,6 +2394,8 @@ The following top level domain prefixes are supported:
 * co.je
 
 * co.jp
+
+* co.ke
 
 * co.kr
 
@@ -4659,6 +4663,8 @@ The following top level domain prefixes are supported:
 
 * go.jp
 
+* go.ke
+
 * go.kr
 
 * go.leg.br
@@ -6063,6 +6069,8 @@ The following top level domain prefixes are supported:
 
 * info.hu
 
+* info.ke
+
 * info.ki
 
 * info.la
@@ -6914,6 +6922,8 @@ The following top level domain prefixes are supported:
 * kazuno.akita.jp
 
 * kddi
+
+* ke
 
 * keisen.fukuoka.jp
 
@@ -8141,6 +8151,8 @@ The following top level domain prefixes are supported:
 
 * me.it
 
+* me.ke
+
 * me.tz
 
 * me.uk
@@ -8649,6 +8661,8 @@ The following top level domain prefixes are supported:
 
 * mobi.gp
 
+* mobi.ke
+
 * mobi.na
 
 * mobi.ng
@@ -8946,8 +8960,6 @@ The following top level domain prefixes are supported:
 * myftp.biz
 
 * myftp.org
-
-* myfusion.cloud
 
 * mykolaiv.ua
 
@@ -9272,6 +9284,8 @@ The following top level domain prefixes are supported:
 * ne
 
 * ne.jp
+
+* ne.ke
 
 * ne.kr
 
@@ -10332,6 +10346,8 @@ The following top level domain prefixes are supported:
 * or.it
 
 * or.jp
+
+* or.ke
 
 * or.kr
 
@@ -12008,6 +12024,8 @@ The following top level domain prefixes are supported:
 * sc.cn
 
 * sc.gov.br
+
+* sc.ke
 
 * sc.kr
 
