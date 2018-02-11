@@ -1,0 +1,6 @@
+# Dropbox uses HackerOne for responsible disclosure.
+# Please report abusive content (including malware, spam, etc) to abuse@dropbox.com.
+Contact: https://hackerone.com/dropbox/
+Acknowledgements: https://hackerone.com/dropbox/thanks
+Policy: https://hackerone.com/dropbox/
+# Hiring: https://www.dropbox.com/jobs/listing/815756
