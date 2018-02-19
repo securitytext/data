@@ -2,7 +2,7 @@
 
 
 
-_Last updated at 2018-02-18 07:30:10 by [securitytext.org](https://securitytext.org)._
+_Last updated at 2018-02-19 07:30:10 by [securitytext.org](https://securitytext.org)._
 
 
 
@@ -34,6 +34,8 @@ The following top level domain prefixes are supported:
 * 2.bg
 
 * 2000.hu
+
+* 2038.io
 
 * 2ix.at
 
@@ -2278,6 +2280,8 @@ The following top level domain prefixes are supported:
 * cloud.goog
 
 * cloud.metacentrum.cz
+
+* cloud66.ws
 
 * cloudaccess.host
 
@@ -7753,6 +7757,8 @@ The following top level domain prefixes are supported:
 
 * link
 
+* linkyard.cloud
+
 * linz.museum
 
 * lipsy
@@ -10101,6 +10107,8 @@ The following top level domain prefixes are supported:
 
 * office
 
+* official.academy
+
 * ofunato.iwate.jp
 
 * og.ao
@@ -12068,6 +12076,8 @@ The following top level domain prefixes are supported:
 * schmidt
 
 * schoenbrunn.museum
+
+* schokokeks.net
 
 * schokoladen.museum
 
