@@ -1,6 +1,6 @@
 # Readme
 
-_Last updated at 2018-02-19 07:30:10 by [securitytext.org](https://securitytext.org)._
+_Last updated at 2018-02-23 05:12:57 by [securitytext.org](https://securitytext.org)._
 
 ## Table of Contents
 
@@ -12,11 +12,11 @@ _Last updated at 2018-02-19 07:30:10 by [securitytext.org](https://securitytext.
 
 This **security-txt-registry** server:
 
-* Monitors **7,868 domains** for `security.txt`-related routes.
-* Contains **27 documents** with valid `security.txt` contents.
+* Monitors **8,130 domains** for `security.txt`-related routes.
+* Contains **30 documents** with valid `security.txt` contents.
 * Contains **2 GPG signatures** for `security.txt` documents.
-* Processed **28,793,881 objects** during its lifetime.
-* Crawled **9,120,271 URLs** on the Interwebs.
+* Processed **30,554,292 objects** during its lifetime.
+* Crawled **9,544,302 URLs** on the Interwebs.
 * Handled **2,794 `whois` connections** via IPv4/IPv6.
 
 ## Links
