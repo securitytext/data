@@ -1,0 +1,7 @@
+Contact: mailto:stephen@jell.ie
+Contact: mailto:stephen.farrell@cs.tcd.ie
+Contact: +353-1-896-2354
+Encryption: https://pgp.mit.edu/pks/lookup?op=get&search=0x5AB2FAF17B172BEA
+Signature: https://jell.ie/.well-known/security.txt.sig
+# based on https://tools.ietf.org/html/draft-foudil-securitytxt-02
+

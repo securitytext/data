@@ -1,0 +1,11 @@
+# If you would like to report a security issue related to UNOPS
+# please see below for contact and encryption details
+
+# Our security address
+Contact: https://unops.org/contact-us
+
+# Our PGP key
+Encryption: https://unops.org/.well-known/ict-security-public.asc
+
+# Verify this security.txt file
+Signature: https://unops.org/.well-known/security.txt.sig

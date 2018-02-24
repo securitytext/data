@@ -1,6 +1,6 @@
 # License
 
-_Last updated at 2018-02-23 07:30:18 by [securitytext.org](https://securitytext.org)._
+_Last updated at 2018-02-24 07:30:06 by [securitytext.org](https://securitytext.org)._
 
 Copyright 2018 Austin Heap, [securitytext.org](https://securitytext.org).
 
