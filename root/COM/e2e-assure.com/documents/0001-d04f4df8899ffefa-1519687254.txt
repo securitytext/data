@@ -1,0 +1,8 @@
+Contact: security [@] e2e-assure.com
+
+Encryption: 
+Acknowledgements: https://www.e2e-assure.com/responsible-disclosure-program
+
+Policy: https://www.e2e-assure.com/responsible-disclosure-program
+
+signature: 
