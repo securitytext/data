@@ -1,0 +1,22 @@
+# AgileBiters: Be sure to create an updated signature file
+# after editing this file, even in the slightest. Use 
+#   make security-sig
+# in the root directory (you'll need the private key)
+
+# AgileBits Security contact address
+Contact: security@agilebits.com
+
+# Bugcrowd program for security issues with 1Password.
+Contact: https://bugcrowd.com/agilebits
+
+# Encryption-key-user: support@agilebits.com
+# Encryption-key-short-ID: 42F3D4D4
+# Encryption-key-long-ID: BD58E71C42F3D4D4
+# Encryption-key-fingerprint: F9F8 9579 AFDF EBB2 D4E9  1BE2 BD58 E71C 42F3 D4D4
+# 
+# Note that our support email system doesn't do well with PGP-MIME.
+# Please encrypt within the the body of the message.
+Encryption: https://1password.com/support-at-agilebits-pubkey-42F3D4D4.asc
+
+# Signature of this file
+Signature: https://1Password.com/.well-known/security.txt.sig
