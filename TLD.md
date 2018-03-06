@@ -2,7 +2,7 @@
 
 
 
-_Last updated at 2018-03-05 07:30:06 by [securitytext.org](https://securitytext.org)._
+_Last updated at 2018-03-06 07:30:07 by [securitytext.org](https://securitytext.org)._
 
 
 
@@ -2292,6 +2292,8 @@ The following top level domain prefixes are supported:
 * cloudcontrolapp.com
 
 * cloudcontrolled.com
+
+* cloudeity.net
 
 * cloudfront.net
 
