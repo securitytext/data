@@ -2,7 +2,7 @@
 
 
 
-_Last updated at 2018-03-07 07:30:05 by [securitytext.org](https://securitytext.org)._
+_Last updated at 2018-03-08 07:30:05 by [securitytext.org](https://securitytext.org)._
 
 
 
@@ -12144,8 +12144,6 @@ The following top level domain prefixes are supported:
 * sdn.gov.pl
 
 * se
-
-* se.com
 
 * se.eu.org
 
