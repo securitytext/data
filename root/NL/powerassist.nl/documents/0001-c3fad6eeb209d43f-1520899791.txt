@@ -1,0 +1,4 @@
+Contact: security@powerassist.nl
+Encryption: https://keybase.io/wimwisselink/pgp_keys.asc
+Signature: https://www.powerassist.nl/.well-known/security.txt.sig
+Acknowledgements: https://www.powerassist.nl/security-hall-of-fame
