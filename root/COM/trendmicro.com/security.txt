@@ -1,0 +1,3 @@
+Contact: mailto:security@trendmicro.com
+Encryption: http://esupport.trendmicro.com/media/13888799/tm-security-pgp-key.zip
+Acknowledgements: https://success.trendmicro.com/vulnerability-response#acknowledgement
