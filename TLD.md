@@ -2,7 +2,7 @@
 
 
 
-_Last updated at 2018-03-28 07:30:05 by [securitytext.org](https://securitytext.org)._
+_Last updated at 2018-03-30 07:30:05 by [securitytext.org](https://securitytext.org)._
 
 
 
@@ -5209,6 +5209,8 @@ The following top level domain prefixes are supported:
 
 * gwangju.kr
 
+* gwiddle.co.uk
+
 * gx.cn
 
 * gy
@@ -8971,6 +8973,8 @@ The following top level domain prefixes are supported:
 
 * myftp.org
 
+* myjino.ru
+
 * mykolaiv.ua
 
 * mymailer.com.tw
@@ -10797,6 +10801,8 @@ The following top level domain prefixes are supported:
 
 * ownprovider.com
 
+* ox.rs
+
 * oxford.museum
 
 * oy.lc
@@ -11450,6 +11456,8 @@ The following top level domain prefixes are supported:
 * rankoshi.hokkaido.jp
 
 * ranzan.saitama.jp
+
+* ras.ru
 
 * rauma.no
 
