@@ -2,7 +2,7 @@
 
 
 
-_Last updated at 2018-03-31 07:30:06 by [securitytext.org](https://securitytext.org)._
+_Last updated at 2018-04-19 19:06:47 by [securitytext.org](https://securitytext.org)._
 
 
 
@@ -24,12 +24,6 @@ The following top level domain prefixes are supported:
 * 1337.pictures
 
 * 1kapp.com
-
-* 1password.ca
-
-* 1password.com
-
-* 1password.eu
 
 * 2.bg
 
@@ -975,6 +969,8 @@ The following top level domain prefixes are supported:
 
 * azure
 
+* azurecontainer.io
+
 * azurewebsites.net
 
 * b.bg
@@ -1581,8 +1577,6 @@ The following top level domain prefixes are supported:
 
 * boomla.net
 
-* boots
-
 * bosch
 
 * bostik
@@ -2083,6 +2077,8 @@ The following top level domain prefixes are supported:
 
 * channelsdvr.net
 
+* charity
+
 * charter.aero
 
 * chase
@@ -2262,6 +2258,8 @@ The following top level domain prefixes are supported:
 * clan.rip
 
 * cleaning
+
+* cleverapps.io
 
 * click
 
@@ -4155,6 +4153,8 @@ The following top level domain prefixes are supported:
 
 * flowers
 
+* flt.cloud.muni.cz
+
 * fly
 
 * flynnhosting.net
@@ -6015,6 +6015,8 @@ The following top level domain prefixes are supported:
 
 * inazawa.aichi.jp
 
+* inc
+
 * inc.hk
 
 * incheon.kr
@@ -7783,6 +7785,8 @@ The following top level domain prefixes are supported:
 
 * lk
 
+* llc
+
 * ln.cn
 
 * lo.it
@@ -8853,8 +8857,6 @@ The following top level domain prefixes are supported:
 
 * mtn
 
-* mtpc
-
 * mtr
 
 * mu
@@ -9808,6 +9810,10 @@ The following top level domain prefixes are supported:
 * nogi.tochigi.jp
 
 * noheji.aomori.jp
+
+* noho.st
+
+* nohost.me
 
 * noip.me
 
@@ -12809,6 +12815,8 @@ The following top level domain prefixes are supported:
 
 * spjelkavik.no
 
+* sport
+
 * sport.hu
 
 * spot
@@ -14136,6 +14144,8 @@ The following top level domain prefixes are supported:
 * ushuaia.museum
 
 * uslivinghistory.museum
+
+* usr.cloud.muni.cz
 
 * ustka.pl
 

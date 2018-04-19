@@ -1,0 +1,5 @@
+Contact: security@legalrobot.com
+Encryption: https://www.legalrobot.com/pgp/LegalRobot-Security-4DB31BAA-Public.asc
+Acknowledgments: https://hackerone.com/legalrobot/thanks
+Policy: https://hackerone.com/legalrobot?view_policy=true
+Signature: https://www.legalrobot.com/.well-known/security.txt.sig
