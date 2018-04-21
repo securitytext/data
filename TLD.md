@@ -2,7 +2,7 @@
 
 
 
-_Last updated at 2018-04-20 07:30:05 by [securitytext.org](https://securitytext.org)._
+_Last updated at 2018-04-21 07:30:08 by [securitytext.org](https://securitytext.org)._
 
 
 
@@ -2969,6 +2969,8 @@ The following top level domain prefixes are supported:
 
 * customer.enonic.io
 
+* customer.speedpartner.de
+
 * cv
 
 * cv.ua
@@ -3164,6 +3166,8 @@ The following top level domain prefixes are supported:
 * dev
 
 * dev.static.land
+
+* development.run
 
 * devices.resinstaging.io
 
@@ -4640,6 +4644,8 @@ The following top level domain prefixes are supported:
 * glogow.pl
 
 * gloppen.no
+
+* glug.org.uk
 
 * gm
 
@@ -7907,7 +7913,11 @@ The following top level domain prefixes are supported:
 
 * lucerne.museum
 
+* lug.org.uk
+
 * lugansk.ua
+
+* lugs.org.uk
 
 * lukow.pl
 
@@ -8994,6 +9004,8 @@ The following top level domain prefixes are supported:
 * mypsx.net
 
 * myqnapcloud.com
+
+* myravendb.com
 
 * mysecuritycamera.com
 
@@ -10805,6 +10817,8 @@ The following top level domain prefixes are supported:
 
 * owariasahi.aichi.jp
 
+* own.pm
+
 * ownprovider.com
 
 * ox.rs
@@ -10930,6 +10944,8 @@ The following top level domain prefixes are supported:
 * pc.pl
 
 * pccw
+
+* pcloud.host
 
 * pd.it
 
@@ -11466,6 +11482,12 @@ The following top level domain prefixes are supported:
 * ras.ru
 
 * rauma.no
+
+* ravendb.community
+
+* ravendb.me
+
+* ravendb.run
 
 * ravenna.it
 
@@ -13961,6 +13983,8 @@ The following top level domain prefixes are supported:
 
 * u.se
 
+* u2.xnbay.com
+
 * ua
 
 * ubank
@@ -14024,6 +14048,8 @@ The following top level domain prefixes are supported:
 * uki.kumamoto.jp
 
 * ukiha.fukuoka.jp
+
+* uklugs.org
 
 * ullensaker.no
 
@@ -14744,6 +14770,8 @@ The following top level domain prefixes are supported:
 * xin
 
 * xj.cn
+
+* xnbay.com
 
 * xperia
 
