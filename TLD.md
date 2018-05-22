@@ -2,7 +2,7 @@
 
 
 
-_Last updated at 2018-05-01 07:30:05 by [securitytext.org](https://securitytext.org)._
+_Last updated at 2018-05-22 07:30:07 by [securitytext.org](https://securitytext.org)._
 
 
 
@@ -12,6 +12,8 @@ The following top level domain prefixes are supported:
 
 
 * 0.bg
+
+* 001www.com
 
 * 1.bg
 
@@ -615,6 +617,8 @@ The following top level domain prefixes are supported:
 
 * app
 
+* app.lmpm.com
+
 * app.os.fedoraproject.org
 
 * app.os.stg.fedoraproject.org
@@ -1069,17 +1073,47 @@ The following top level domain prefixes are supported:
 
 * barsy.bg
 
+* barsy.club
+
+* barsy.co.uk
+
 * barsy.de
 
 * barsy.eu
 
 * barsy.in
 
+* barsy.info
+
+* barsy.io
+
+* barsy.me
+
+* barsy.menu
+
+* barsy.mobi
+
 * barsy.net
 
 * barsy.online
 
+* barsy.org
+
+* barsy.pro
+
+* barsy.pub
+
+* barsy.shop
+
+* barsy.site
+
 * barsy.support
+
+* barsy.uk
+
+* barsycenter.com
+
+* barsyonline.co.uk
 
 * barsyonline.com
 
@@ -1128,6 +1162,8 @@ The following top level domain prefixes are supported:
 * bc.ca
 
 * bcg
+
+* bci.dnstrace.pro
 
 * bcn
 
@@ -1332,6 +1368,8 @@ The following top level domain prefixes are supported:
 * bl.it
 
 * black
+
+* blackbaudcdn.net
 
 * blackfriday
 
@@ -1698,6 +1736,8 @@ The following top level domain prefixes are supported:
 * building.museum
 
 * bukhara.su
+
+* bulsan.it
 
 * bungoono.oita.jp
 
@@ -2321,6 +2361,8 @@ The following top level domain prefixes are supported:
 
 * cloudns.us
 
+* cloudycluster.net
+
 * club
 
 * club.aero
@@ -2342,6 +2384,8 @@ The following top level domain prefixes are supported:
 * cn.ua
 
 * cng.br
+
+* cnpy.gdn
 
 * cnt.br
 
@@ -2897,6 +2941,8 @@ The following top level domain prefixes are supported:
 
 * cr.ua
 
+* crafting.xyz
+
 * crafts.museum
 
 * cranbrook.museum
@@ -3055,6 +3101,14 @@ The following top level domain prefixes are supported:
 
 * datsun
 
+* dattolocal.com
+
+* dattolocal.net
+
+* dattorelay.com
+
+* dattoweb.com
+
 * davvenjarga.no
 
 * davvesiida.no
@@ -3076,6 +3130,8 @@ The following top level domain prefixes are supported:
 * ddnsgeek.com
 
 * ddnsking.com
+
+* ddnslive.com
 
 * ddnss.de
 
@@ -3253,6 +3309,10 @@ The following top level domain prefixes are supported:
 
 * dnsiskinky.com
 
+* dnsking.ch
+
+* dnsup.net
+
 * dnsupdater.de
 
 * do
@@ -3394,6 +3454,8 @@ The following top level domain prefixes are supported:
 * dyndns1.de
 
 * dynns.com
+
+* dynserv.org
 
 * dynu.net
 
@@ -3983,6 +4045,8 @@ The following top level domain prefixes are supported:
 
 * fastlylb.net
 
+* fastpanel.direct
+
 * fauske.no
 
 * fbxos.fr
@@ -4219,6 +4283,8 @@ The following top level domain prefixes are supported:
 
 * forum.hu
 
+* forumz.info
+
 * fosnes.no
 
 * fot.br
@@ -4254,6 +4320,10 @@ The following top level domain prefixes are supported:
 * freeboxos.fr
 
 * freeddns.org
+
+* freeddns.us
+
+* freedesktop.org
 
 * freemasonry.museum
 
@@ -5283,6 +5353,8 @@ The following top level domain prefixes are supported:
 
 * halden.no
 
+* half.host
+
 * halloffame.museum
 
 * halsa.no
@@ -5446,6 +5518,8 @@ The following top level domain prefixes are supported:
 * hi.cn
 
 * hi.us
+
+* hicam.net
 
 * hichiso.gifu.jp
 
@@ -7771,6 +7845,8 @@ The following top level domain prefixes are supported:
 
 * link
 
+* linkitools.space
+
 * linkyard.cloud
 
 * linz.museum
@@ -8147,6 +8223,10 @@ The following top level domain prefixes are supported:
 
 * mattel
 
+* mayfirst.info
+
+* mayfirst.org
+
 * mazowsze.pl
 
 * mazury.pl
@@ -8256,6 +8336,8 @@ The following top level domain prefixes are supported:
 * memorial
 
 * memorial.museum
+
+* memset.net
 
 * men
 
@@ -8534,6 +8616,8 @@ The following top level domain prefixes are supported:
 * mini
 
 * mining.museum
+
+* miniserver.com
 
 * minnesota.museum
 
@@ -8967,6 +9051,10 @@ The following top level domain prefixes are supported:
 
 * mycd.eu
 
+* mydatto.com
+
+* mydatto.net
+
 * myddns.rocks
 
 * mydissent.net
@@ -8985,6 +9073,8 @@ The following top level domain prefixes are supported:
 
 * myftp.org
 
+* myiphost.com
+
 * myjino.ru
 
 * mykolaiv.ua
@@ -9000,6 +9090,8 @@ The following top level domain prefixes are supported:
 * mypets.ws
 
 * myphotos.cc
+
+* mypi.co
 
 * mypsx.net
 
@@ -9028,6 +9120,8 @@ The following top level domain prefixes are supported:
 * n.bg
 
 * n.se
+
+* n4t.co
 
 * na
 
@@ -9837,6 +9931,8 @@ The following top level domain prefixes are supported:
 
 * nom.ae
 
+* nom.af
+
 * nom.ag
 
 * nom.ai
@@ -9853,6 +9949,8 @@ The following top level domain prefixes are supported:
 
 * nom.gd
 
+* nom.ge
+
 * nom.gl
 
 * nom.gt
@@ -9860,6 +9958,8 @@ The following top level domain prefixes are supported:
 * nom.hn
 
 * nom.im
+
+* nom.ke
 
 * nom.km
 
@@ -9892,6 +9992,10 @@ The following top level domain prefixes are supported:
 * nom.rs
 
 * nom.si
+
+* nom.st
+
+* nom.tj
 
 * nom.tm
 
@@ -9995,6 +10099,8 @@ The following top level domain prefixes are supported:
 
 * nt.ro
 
+* ntdll.top
+
 * ntr.br
 
 * ntt
@@ -10035,9 +10141,15 @@ The following top level domain prefixes are supported:
 
 * nym.gr
 
+* nym.gy
+
+* nym.ie
+
 * nym.kz
 
 * nym.la
+
+* nym.lc
 
 * nym.li
 
@@ -10047,6 +10159,8 @@ The following top level domain prefixes are supported:
 
 * nym.me
 
+* nym.mn
+
 * nym.mx
 
 * nym.nz
@@ -10054,6 +10168,8 @@ The following top level domain prefixes are supported:
 * nym.pe
 
 * nym.pt
+
+* nym.ro
 
 * nym.sk
 
@@ -10818,6 +10934,8 @@ The following top level domain prefixes are supported:
 * owariasahi.aichi.jp
 
 * own.pm
+
+* ownip.net
 
 * ownprovider.com
 
@@ -12803,6 +12921,8 @@ The following top level domain prefixes are supported:
 
 * soundandvision.museum
 
+* soundcast.me
+
 * southcarolina.museum
 
 * southwest.museum
@@ -13353,6 +13473,8 @@ The following top level domain prefixes are supported:
 
 * tcm.museum
 
+* tcp4.me
+
 * td
 
 * tdk
@@ -13807,6 +13929,10 @@ The following top level domain prefixes are supported:
 
 * trentinosuedtirol.it
 
+* trentinsudtirol.it
+
+* trentinsuedtirol.it
+
 * trento.it
 
 * treviso.it
@@ -14195,6 +14321,8 @@ The following top level domain prefixes are supported:
 
 * utsunomiya.tochigi.jp
 
+* utwente.io
+
 * uvic.museum
 
 * uw.gov.pl
@@ -14250,6 +14378,8 @@ The following top level domain prefixes are supported:
 * valledaosta.it
 
 * valleeaoste.it
+
+* valleedaoste.it
 
 * valley.museum
 
@@ -14401,6 +14531,8 @@ The following top level domain prefixes are supported:
 
 * virtual.museum
 
+* virtualuser.de
+
 * virtueeldomein.nl
 
 * virtuel.museum
@@ -14466,6 +14598,8 @@ The following top level domain prefixes are supported:
 * voto
 
 * voyage
+
+* vpndns.net
 
 * vpnplus.to
 
@@ -14754,6 +14888,8 @@ The following top level domain prefixes are supported:
 * x.bg
 
 * x.se
+
+* x443.pw
 
 * xbox
 
@@ -15061,6 +15197,8 @@ The following top level domain prefixes are supported:
 
 * zapto.org
 
+* zapto.xyz
+
 * zara
 
 * zarow.pl
@@ -15088,6 +15226,8 @@ The following top level domain prefixes are supported:
 * zm
 
 * zone
+
+* zone.id
 
 * zoological.museum
 
