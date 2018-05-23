@@ -2,7 +2,7 @@
 
 
 
-_Last updated at 2018-05-22 07:30:07 by [securitytext.org](https://securitytext.org)._
+_Last updated at 2018-05-23 07:30:08 by [securitytext.org](https://securitytext.org)._
 
 
 
@@ -5430,6 +5430,8 @@ The following top level domain prefixes are supported:
 * hashimoto.wakayama.jp
 
 * hasuda.saitama.jp
+
+* hasura.app
 
 * hasvik.no
 
