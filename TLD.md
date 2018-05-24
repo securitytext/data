@@ -2,7 +2,7 @@
 
 
 
-_Last updated at 2018-05-23 07:30:08 by [securitytext.org](https://securitytext.org)._
+_Last updated at 2018-05-24 07:30:06 by [securitytext.org](https://securitytext.org)._
 
 
 
@@ -2649,6 +2649,8 @@ The following top level domain prefixes are supported:
 
 * com.gt
 
+* com.gu
+
 * com.gy
 
 * com.hk
@@ -3600,6 +3602,8 @@ The following top level domain prefixes are supported:
 * edu.gr
 
 * edu.gt
+
+* edu.gu
 
 * edu.gy
 
@@ -4965,6 +4969,8 @@ The following top level domain prefixes are supported:
 
 * gov.gr
 
+* gov.gu
+
 * gov.gy
 
 * gov.hk
@@ -5249,7 +5255,11 @@ The following top level domain prefixes are supported:
 
 * gt
 
+* gu
+
 * gu.us
+
+* guam.gu
 
 * guardian
 
@@ -6158,6 +6168,8 @@ The following top level domain prefixes are supported:
 * info.ec
 
 * info.et
+
+* info.gu
 
 * info.ht
 
@@ -9525,6 +9537,8 @@ The following top level domain prefixes are supported:
 
 * net.gt
 
+* net.gu
+
 * net.gy
 
 * net.hk
@@ -10614,6 +10628,8 @@ The following top level domain prefixes are supported:
 * org.gr
 
 * org.gt
+
+* org.gu
 
 * org.gy
 
@@ -14710,6 +14726,8 @@ The following top level domain prefixes are supported:
 * web.co
 
 * web.do
+
+* web.gu
 
 * web.id
 
