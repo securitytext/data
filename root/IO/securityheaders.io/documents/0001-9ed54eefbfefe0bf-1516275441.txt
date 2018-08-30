@@ -1,0 +1,3 @@
+Contact: security@securityheaders.io
+Contact: https://twitter.com/securityheaders
+Encryption: https://scotthelme.co.uk/contact/

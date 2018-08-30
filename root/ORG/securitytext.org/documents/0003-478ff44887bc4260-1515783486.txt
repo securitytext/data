@@ -1,0 +1,5 @@
+# Our security address
+Contact: contact@securitytext.org
+
+# Our disclosure policy
+Disclosure: Full

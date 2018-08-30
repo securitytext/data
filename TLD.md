@@ -2,7 +2,7 @@
 
 
 
-_Last updated at 2018-05-29 07:30:05 by [securitytext.org](https://securitytext.org)._
+_Last updated at 2018-08-30 00:39:50 by [securitytext.org](https://securitytext.org)._
 
 
 
@@ -1559,6 +1559,8 @@ The following top level domain prefixes are supported:
 
 * bmw
 
+* bn
+
 * bn.it
 
 * bnl
@@ -2587,6 +2589,8 @@ The following top level domain prefixes are supported:
 
 * com.bm
 
+* com.bn
+
 * com.bo
 
 * com.br
@@ -2678,6 +2682,8 @@ The following top level domain prefixes are supported:
 * com.km
 
 * com.kp
+
+* com.kw
 
 * com.ky
 
@@ -3549,6 +3555,8 @@ The following top level domain prefixes are supported:
 
 * edu.bm
 
+* edu.bn
+
 * edu.bo
 
 * edu.br
@@ -3634,6 +3642,8 @@ The following top level domain prefixes are supported:
 * edu.kp
 
 * edu.krd
+
+* edu.kw
 
 * edu.ky
 
@@ -3820,6 +3830,8 @@ The following top level domain prefixes are supported:
 * elverum.no
 
 * email
+
+* emb.kw
 
 * embaixada.st
 
@@ -4919,6 +4931,8 @@ The following top level domain prefixes are supported:
 
 * gov.bm
 
+* gov.bn
+
 * gov.br
 
 * gov.bs
@@ -5000,6 +5014,8 @@ The following top level domain prefixes are supported:
 * gov.kn
 
 * gov.kp
+
+* gov.kw
 
 * gov.ky
 
@@ -6119,6 +6135,8 @@ The following top level domain prefixes are supported:
 
 * ind.in
 
+* ind.kw
+
 * ind.tn
 
 * inderoy.no
@@ -6436,8 +6454,6 @@ The following top level domain prefixes are supported:
 * iwate.jp
 
 * iwatsuki.saitama.jp
-
-* iwc
 
 * iwi.nz
 
@@ -7503,6 +7519,8 @@ The following top level domain prefixes are supported:
 
 * kvitsoy.no
 
+* kw
+
 * kwp.gov.pl
 
 * kwpsp.gov.pl
@@ -8356,8 +8374,6 @@ The following top level domain prefixes are supported:
 * men
 
 * menu
-
-* meo
 
 * meraker.no
 
@@ -9485,6 +9501,8 @@ The following top level domain prefixes are supported:
 
 * net.bm
 
+* net.bn
+
 * net.bo
 
 * net.br
@@ -9570,6 +9588,8 @@ The following top level domain prefixes are supported:
 * net.ki
 
 * net.kn
+
+* net.kw
 
 * net.ky
 
@@ -10445,6 +10465,8 @@ The following top level domain prefixes are supported:
 
 * ong
 
+* ong.br
+
 * onga.fukuoka.jp
 
 * onion
@@ -10571,6 +10593,8 @@ The following top level domain prefixes are supported:
 
 * org.bm
 
+* org.bn
+
 * org.bo
 
 * org.br
@@ -10666,6 +10690,8 @@ The following top level domain prefixes are supported:
 * org.kn
 
 * org.kp
+
+* org.kw
 
 * org.ky
 
@@ -11310,6 +11336,8 @@ The following top level domain prefixes are supported:
 * pomorskie.pl
 
 * pomorze.pl
+
+* ponpes.id
 
 * pordenone.it
 
@@ -12140,8 +12168,6 @@ The following top level domain prefixes are supported:
 * saotome.st
 
 * sap
-
-* sapo
 
 * sar.it
 
@@ -13012,8 +13038,6 @@ The following top level domain prefixes are supported:
 * st
 
 * st.no
-
-* stackspace.space
 
 * stada
 
@@ -14928,8 +14952,6 @@ The following top level domain prefixes are supported:
 * xj.cn
 
 * xnbay.com
-
-* xperia
 
 * xs4all.space
 

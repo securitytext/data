@@ -1,0 +1,15 @@
+# See https://securitytxt.org
+# https://tools.ietf.org/html/draft-foudil-securitytxt-03
+#
+
+# Our security address
+Contact: mailto:security@urown.net
+
+# Our PGP key
+Encryption: https://urown.net/pgp-key.txt
+
+# Our security acknowledgments page
+Acknowledgements: https://urown.net/acknowledgments.html
+
+# Verify this security.txt file
+Signature: https://urown.net/.well-known/security.txt.sig

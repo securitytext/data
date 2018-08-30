@@ -1,0 +1,8 @@
+# Our security address
+Contact: contact@securitytext.org
+
+# Our PGP key
+Encryption: https://securitytext.org/.well-known/gpg.txt
+
+# Our disclosure policy
+Disclosure: Full

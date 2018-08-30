@@ -1,0 +1,16 @@
+#    _        _              _    _  ___     
+#  _| | ___ _| |_ ___  ___ _| |_ <_>| | '_ _ 
+# / . |/ ._> | | / ._>/ | ' | |  | || |-| | |
+# \___|\___. |_| \___.\_|_. |_|  |_||_| `_. |
+#  "Pool on the roof must have a leak." <___'
+
+# Reporting
+Security-page: https://detectify.com/responsible_disclosure
+Contact: disclosure@detectify.com
+
+# Scope
+In-scope: *.detectify.com
+Out-of-scope: blog.detectify.com
+Out-of-scope: labs.detectify.com
+Out-of-scope: support.detectify.com
+Out-of-scope: career.detectify.com

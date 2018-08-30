@@ -1,0 +1,4 @@
+Contact: mailto:security@standards.org.au
+Signature: https://www.standards.org.au/.well-known/security.txt.sig
+OpenBugBounty: https://openbugbounty.org/bugbounty/AdamMcK44958707/
+

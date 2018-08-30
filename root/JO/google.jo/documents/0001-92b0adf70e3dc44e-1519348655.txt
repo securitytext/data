@@ -1,0 +1,6 @@
+Contact: https://g.co/vulnz
+Contact: mailto:security@google.com
+Encryption: https://services.google.com/corporate/publickey.txt
+Acknowledgement: https://bughunter.withgoogle.com/
+Policy: https://g.co/vrp
+Hiring: https://g.co/SecurityPrivacyEngJobs
