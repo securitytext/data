@@ -1,0 +1,17 @@
+# Regarding this document
+# -----------------------
+
+# This security.txt file follows the standard provided as a work in progress in 
+# the informational Internet-Draft titled "A Method for Web Security Policies"
+# by E. Foudil. The full implementation can be found at: 
+#   https://datatracker.ietf.org/doc/draft-foudil-securitytxt/?include_text=1
+
+# Have you found something wrong with our website? 
+# This is the information to contact our security team.
+
+Contact: contacto@i3visio.com
+Encryption: https://pgp.mit.edu/pks/lookup?op=get&search=0x01276C2652000414
+Signature: https://i3visio.com/.well-known/security.txt.sig
+Policy: https://i3visio.com/security-policy.md
+Acknowledgements: https://i3visio.com/humans.txt
+

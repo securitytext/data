@@ -1,0 +1,8 @@
+# Our security address
+Contact: security@oslobors.no
+
+# Our PGP key
+Encryption: https://www.oslobors.no/pgp-key.txt
+
+# Our security policy
+Policy: https://www.oslobors.no/ob_eng/Oslo-Boers/About-Oslo-Boers/Responsible-Disclosure

@@ -1,0 +1,4 @@
+# If you would like to report a security issue
+# you may report it to me via E-mail.
+Contact: mailto:hxxtom@gmail.com
+Encryption: https://tomcat.one/pgp_keys.asc

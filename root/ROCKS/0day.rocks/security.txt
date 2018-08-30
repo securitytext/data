@@ -1,0 +1,2 @@
+Contact: security@0day.rocks
+Encryption: https://0day.rocks/public.pgp.asc

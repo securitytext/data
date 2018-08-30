@@ -1,0 +1,3 @@
+Contact: security@zonky.cz
+Encryption: https://www.zonky.cz/key.asc
+OpenBugBounty: https://openbugbounty.org/bugbounty/zonky_cz/

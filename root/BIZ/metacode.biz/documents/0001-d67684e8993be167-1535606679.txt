@@ -1,0 +1,24 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Contact: https://metacode.biz/@wiktor
+Encryption: https://metacode.biz/@wiktor/openpgp/key
+
+-----BEGIN PGP SIGNATURE-----
+
+iQJIBAEBCgAyFiEEWaKd6o03OIxlaGPfuXoe4J20F+wFAlsv4dwUHHdpa3RvckBt
+ZXRhY29kZS5iaXoACgkQuXoe4J20F+xMmRAAvWeCM6RQOH7VYWqU/yx1DBpkh55b
+qqTF+NsSfxuHljUxPWOBNXSGmnb8ohoI8dRtxdpXVZzeCDGal1AIEuvpSiJ/3i28
+fd0kmwNfZdQLKWPJ6cCMRUIrJ25x9F5soFby5+ea1IL1y3x9mDHmJCfPNRKjVB58
+KpEzoJDHYegH5N+KMFLi7UruH/1rYUSQDM/XuVkQdBniYbs3B0QQRa9Bei3k4vc7
+KHz710TF8zwxBDHkP2I0V05hrNzHIRYqXQuSavzR2n0JiSnHxjbuo6a1XBxOLbIH
+M8ElWNdcZXkVLS1YigvcVySI7HmQZLanA3WHPQd/0IzhICN9DLpiL7cfiv6IE6sW
+RYKwtXjxO2qTl9zwBYiqXp0kci5NPX1UZntfJK42hn1LtFG+Mw539kek+mOi1htd
+XZMh95Iz6YEX8qWDbMDZx/0i6eJFT/x7arzXU+VTMFoiY8xMe5FgfcTQqOs/Dmjr
+KF42JklWhI7v7jwqU3rgsjkC94lhMyEfbfGMGl58SdLG0/Khl5lGnFFWX+lgHEqo
+9LR1DBbZOzhXTf1MhnjoJhYbfQg/SI4GzMR3ZbwjwoMN9irVuPhEHYLSodplJP6r
+YdpjfHKZrjJRHc4Nk4Kwqjru0nsqW1wl2CAFzv/41Gp/HjQ7LaHYfa+ioT8fod6J
+a15IRK2FpsWsVBc=
+=hSrc
+-----END PGP SIGNATURE-----
+

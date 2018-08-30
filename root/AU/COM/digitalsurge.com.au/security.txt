@@ -1,0 +1,6 @@
+Contact: mailto:contact@digitalsurge.com.au
+Encryption: https://digitalsurge.com.au/pgp-key.txt
+Acknowledgements: https://digitalsurge.com.au/acknowledgements.html
+Policy: https://digitalsurge.com.au/security-policy.html
+Signature: https://digitalsurge.com.au/.well-known/security.txt.sig
+Hiring: Get in touch!

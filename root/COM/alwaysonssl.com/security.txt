@@ -1,0 +1,4 @@
+Contact: security@alwaysonssl.com
+Encryption: https://www.alwaysonssl.com/.well-known/pgp-key.txt
+Acknowledgement: https://www.alwaysonssl.com/.well-known/securitytxt.hall-of-fame.txt
+Signature: https://www.alwaysonssl.com/.well-known/security.txt.sig

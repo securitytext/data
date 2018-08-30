@@ -1,0 +1,12 @@
+# Our security address
+Contact: csirt@active24.cz
+
+# Our PGP key
+# Public key: 1024D/6E7DFC01 2012-01-19
+# Fingerprint: 9A7C 8EEF DBDF F7C9 0449 7DCC 0E22 E1D7 6E7D FC01
+# User ID: ACTIVE24-CSIRT <csirt@active24.cz>
+# sub: 4096g/02C4551D 2012-01-19
+Encryption: https://pgp.mit.edu/pks/lookup?search=0x6E7DFC01
+
+# Our security policy (in Czech)
+Policy: https://faq.active24.com/cz/933388-Hl%C3%A1%C5%A1en%C3%AD-bezpe%C4%8Dnostn%C3%ADch-zranitelnost%C3%AD
