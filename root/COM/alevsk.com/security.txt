@@ -1,0 +1,6 @@
+# If you would like to report a security issue
+# you may report it to me on www.alevsk.com
+# ctf_flag{1999251d-df25-4d4a-846b-d4267f471b23}
+Contact: lenin@alevsk.com
+Encryption: https://pgp.mit.edu/pks/lookup?op=get&search=0xFF4F600D674B6DED
+

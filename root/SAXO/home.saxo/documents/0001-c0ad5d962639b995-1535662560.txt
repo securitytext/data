@@ -1,0 +1,5 @@
+Contact: security@saxobank.com
+
+Encryption: https://www.home.saxo/-/media/files/security-pgp.txt
+Signature: https://www.home.saxo/.well-known/security.txt.sig
+

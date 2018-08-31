@@ -1,0 +1,3 @@
+Contact: mailto:admin@trigama.eu
+Encryption: https://www.trigama.eu/admin@trigama.eu.asc
+Signature: https://www.trigama.eu/.well-known/security.txt.sig

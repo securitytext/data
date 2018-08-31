@@ -1,0 +1,3 @@
+Contact: webmaster@RealityRipple.com
+Encryption: https://realityripple.com/pgp-key.asc
+Signature: https://realityripple.com/.well-known/security.txt.sig

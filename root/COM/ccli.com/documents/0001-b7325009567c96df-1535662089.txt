@@ -1,0 +1,3 @@
+Contact: mailto:security@ccli.com
+Encryption: https://ccli.com/.well-known/security_public_key.txt
+Signature: https://ccli.com/.well-known/security.txt.sig
