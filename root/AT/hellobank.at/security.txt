@@ -1,0 +1,4 @@
+# Our security address
+
+Contact: security@hellobank.at
+Encryption: https://www.hellobank.at/pgp-key.txt

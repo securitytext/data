@@ -1,0 +1,5 @@
+Contact: mailto:security@sidefx.com
+
+Encryption: https://www.sidefx.com/pgp-key.txt
+
+Policy: https://www.sidefx.com/responsible-disclosure-program/

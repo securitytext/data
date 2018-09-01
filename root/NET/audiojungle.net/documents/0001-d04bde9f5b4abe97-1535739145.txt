@@ -1,0 +1,5 @@
+Contact: https://help.market.envato.com/hc/en-us/requests/new?ticket_form_id=38490
+Policy: https://webuild.envato.com/helpful-hacker/
+Acknowledgement: https://webuild.envato.com/helpful-hacker/
+Encryption: https://webuild.envato.com/pgp.txt
+Signature: https://webuild.envato.com/security.txt.sig

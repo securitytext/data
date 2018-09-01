@@ -1,0 +1,14 @@
+# In scope targets
+In-scope: *.domainesia.com
+
+# Out of scope targets
+Out-of-scope: -
+
+# Out of scope vulnerabilities
+Out-of-scope-vuln: Clickjacking
+
+# Our security address
+Contact: admin@domainesia.com
+
+# Our bug bounty program
+Contact: admin@domainesia.com

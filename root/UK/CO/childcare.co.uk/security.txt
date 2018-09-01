@@ -1,0 +1,3 @@
+Contact: security@childcare.co.uk
+Encryption: https://www.childcare.co.uk/download/pgp.txt
+Policy: https://www.childcare.co.uk/responsible-disclosure-policy

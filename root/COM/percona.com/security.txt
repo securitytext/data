@@ -1,0 +1,6 @@
+Contact: mailto:security@percona.com
+Encryption: https://keybase.io/percona_security/pgp_keys.asc?fingerprint=88f513aa99b1d2ea8e0f86e70b6ab3a277060327
+Acknowledgements: https://www.percona.com/blog
+Policy: https://www.percona.com/terms-use
+Signature: https://percona.com/.well-known/security.txt.sig
+Hiring: security@percona.com

@@ -1,0 +1,5 @@
+Contact: https://bugbounty.linecorp.com/en/apply/
+Acknowledgements: https://bugbounty.linecorp.com/en/halloffame/
+Policy: https://bugbounty.linecorp.com/en/terms_of_use/
+Announce : https://linecorp.com/en/security/list/
+Hiring: https://linecorp.com/ja/career/position/498

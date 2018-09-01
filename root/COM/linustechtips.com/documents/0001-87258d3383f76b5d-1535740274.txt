@@ -1,0 +1,7 @@
+# Contact email. For security issues only; all other emails will be deleted without response.
+Contact: mailto:lttmortis+security@gmail.com
+# If you have a forum account, the preferred contact method is via forum PM
+Contact: https://linustechtips.com/main/messenger/compose/?to=10813
+
+# This site uses forum software from Invision Community, and all security issues
+# that affect their products will be reported to them.

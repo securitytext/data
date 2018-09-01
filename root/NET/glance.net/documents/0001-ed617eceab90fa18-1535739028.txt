@@ -1,0 +1,4 @@
+Contact: mailto:security@glance.net
+Policy: https://ww2.glance.net/privacy-policy/#security
+Signature: https://www.glance.net/.well-known/security.sig.txt
+Hiring: https://ww2.glance.net/about/careers/

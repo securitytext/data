@@ -1,0 +1,5 @@
+Contact: https://www.cestolino.cz/kontakt/
+Contact: mailto:security@cestolino.cz
+Encryption: https://www.cestolino.cz/security-pub-key.asc
+
+Signature: https://www.cestolino.cz/.well-known/security.txt.sig

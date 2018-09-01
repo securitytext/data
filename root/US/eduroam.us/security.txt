@@ -1,0 +1,9 @@
+# Our security contact
+Contact: https://www.anyroam.net/contact
+
+# Our PGP key
+Encryption: https://pgp.mit.edu/pks/lookup?op=get&search=0xD57B1121E3A0EA82
+
+# Verify this security.txt file
+Signature: https://www.anyroam.net/.well-known/security.txt.sig
+

@@ -1,0 +1,4 @@
+Contact: rdteam <at> securify.nl
+Encryption: https://rdteam.io/rdteam.asc
+Signature: https://rdteam.io/.well-known/security.txt.sig
+# Jobs: https://www.securify.nl/jobs

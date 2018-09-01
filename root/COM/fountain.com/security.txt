@@ -1,0 +1,6 @@
+Contact: mailto:security@fountain.com
+Encryption: https://fountain.com/pgp-key.txt
+Acknowledgements: 
+Policy: https://fountain.com/security
+Signature: https://fountain.com/.well-known/security.txt.sig
+Hiring: https://fountain.com/careers

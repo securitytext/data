@@ -1,0 +1,5 @@
+# Our security address
+Contact: IT_security@corrections.govt.nz
+
+# Our PGP key
+Encryption: https://pgp.mit.edu/pks/lookup?op=get&search=0xFBB6D075E4CC91FB

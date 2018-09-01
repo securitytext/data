@@ -1,0 +1,4 @@
+OpenBugBounty: https://openbugbounty.org/bugbounty/teaminspire/
+Contact: mailto:admins@inspire.com
+Encryption: https://www.inspire.com/.well-known/pgp-key.txt
+Hiring: https://corp.inspire.com/meet-inspire/careers/

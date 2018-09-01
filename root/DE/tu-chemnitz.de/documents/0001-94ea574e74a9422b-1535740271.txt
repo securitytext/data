@@ -1,0 +1,2 @@
+Contact: mailto:webmaster@tu-chemnitz.de
+OpenBugBounty: https://openbugbounty.org/bugbounty/TucWebmaster/

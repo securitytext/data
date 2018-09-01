@@ -1,0 +1,6 @@
+Contact: mailto:security@etnetera.cz, jirovsky.vaclav@o2.cz
+Encryption: https://www.etnetera.cz/keys/security.etnetera-pubkey.asc
+Acknowledgements: 
+Policy: 
+Signature: 
+Hiring: https://www.chcidoo2.cz/marketing-and-online/

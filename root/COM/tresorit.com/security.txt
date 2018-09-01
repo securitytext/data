@@ -1,0 +1,5 @@
+# Our email address to send vulnerability reports
+Contact: security@tresorit.com
+
+# Our PGP key, please encrypt your vulnerability report if possible
+Encryption: https://tresorit.com/contact/pgp.txt

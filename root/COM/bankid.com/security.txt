@@ -1,0 +1,3 @@
+Contact:  responsible-disclosure@bankid.com
+Encryption: https://www.bankid.com/assets/bankid/pgp/pubkey.asc
+Policy: https://www.bankid.com/disclosure

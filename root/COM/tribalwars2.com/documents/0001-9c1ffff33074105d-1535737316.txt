@@ -1,0 +1,5 @@
+# Our security address
+Contact: mailto:security@innogames.com
+
+# Our PGP key
+Encryption: https://www.innogames.com/pgp-key.txt

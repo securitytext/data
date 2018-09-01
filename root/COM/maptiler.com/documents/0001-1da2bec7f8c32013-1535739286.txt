@@ -1,0 +1,10 @@
+# If you would like to report a security issue,
+# please contact us on email bellow
+# using "Security" or "Bug" in the subject
+
+Contact: sysadmin@klokantech.com
+Contact: https://www.klokantech.com/contact/
+Contact: https://twitter.com/klokantech
+Contact: https://www.facebook.com/maptiler/
+Encryption: https://www.maptiler.com/.well-known/key.asc
+Signature: https://www.maptiler.com/.well-known/security.txt.sig

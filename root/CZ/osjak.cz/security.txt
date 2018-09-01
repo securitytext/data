@@ -1,0 +1,5 @@
+Contact: https://tomasvitek.com/
+Contact: https://twitter.com/tomikvitek
+Contact: https://www.facebook.com/tomik
+Encryption: https://tomasvitek.com/key.asc
+Signature: https://tomasvitek.com/.well-known/security.txt.sig

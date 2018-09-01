@@ -1,0 +1,2 @@
+Contact: security@philo.com
+Encryption: https://www.philo.com/.well-known/pgp-key.txt

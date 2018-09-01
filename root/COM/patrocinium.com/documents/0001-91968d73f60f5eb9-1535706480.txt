@@ -1,0 +1,6 @@
+Contact: mailto:web-security@patrocinium.com
+Encryption: https://security.patrocinium.com/pgp-key.txt
+Acknowledgements: 
+Policy: https://security.patrocinium.com/
+Signature: https://security.patrocinium.com/.well-known/security.txt.sig
+Hiring: 

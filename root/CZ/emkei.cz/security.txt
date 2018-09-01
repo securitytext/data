@@ -1,0 +1,3 @@
+Contact: mailto:emkei@soom.cz
+Encryption: https://emkei.cz/.well-known/key.asc
+Signature: https://emkei.cz/.well-known/security.txt.sig

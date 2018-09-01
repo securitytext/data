@@ -1,0 +1,2 @@
+Contact: mailto:security@erau.edu
+Encryption: https://erau.edu/gpg-key.txt

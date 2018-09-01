@@ -1,0 +1,3 @@
+Contact: https://www.nocks.com/support
+Policy: https://www.nocks.com/bug-bounty
+Hiring: https://www.nocks.com/jobs

@@ -1,0 +1,13 @@
+# British Broadcasting Corporation - reporting security vulnerabilities to the BBC
+  
+# Please report any security vulnerabilities to us via the contact method(s) below, only after reading our disclosure policy.
+# Please do not include any sensitive information in your initial message, we'll provide a secure communication method in our reply to you.
+Contact: mailto:security@bbc.co.uk
+ 
+# Our disclosure policy. By submitting a potential security incident to us, you are implicitly accepting these terms - please read this before submitting:
+Policy: https://www.okcalans.ga/backstage/security-disclosure-policy/
+
+# We're continually recruiting, please visit the link below and search for "information security" if you're interested in a career with the BBC in infosec
+Hiring: https://careerssearch.bbc.co.uk/jobs/search
+  
+# Please see https://securitytxt.org/ for details of the specification of this file

@@ -1,0 +1,3 @@
+Contact: security@wingify.com
+Encryption: https://vwo.com/security/pgp-key.txt
+Policy: https://vwo.com/platform/security-compliance/responsible-disclosure-policy

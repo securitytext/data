@@ -1,0 +1,2 @@
+Contact: mailto:security@kentico.com
+Encryption: https://www.kentico.com/pgp-key.txt

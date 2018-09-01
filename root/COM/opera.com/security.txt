@@ -1,0 +1,3 @@
+Contact: https://security.opera.com
+Policy: https://security.opera.com/policy
+Acknowledgments: https://security.opera.com/hall-of-fame

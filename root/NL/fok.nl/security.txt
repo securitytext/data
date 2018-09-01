@@ -1,0 +1,6 @@
+# If you would like to report a security issue
+# You can contact Breuls on Twitter or via e-mail
+Contact: https://twitter.com/breuls
+Contact: 'breuls' at this domain.
+Encryption: https://keybase.io/breuls/pgp_keys.asc
+

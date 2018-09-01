@@ -1,0 +1,9 @@
+# Our security address
+Contact: mailto:security@seravo.com
+
+# Our PGP key
+Encryption: https://seravo.com/security_at_seravo_com.asc
+
+# Verify this security.txt file
+Signature: https://seravo.com/.well-known/security.txt.sig
+

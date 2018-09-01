@@ -1,0 +1,8 @@
+Contact: security [at] xogrp [dot] com
+Encryption: https://www.theknot.com/pgp-key.txt
+Acknowledgements:
+Disclosure: XO Group, Inc. is committed to protecting our customers' and partners' data. We encourage responsible disclosure and transparency.
+1. If you discover a vulnerability on any of our domains, sub-domains or apps, we request that you do not publish them without reporting them to us by emailing security [at] xogrp [dot] com (we encourage you encrypt the email, but it is not mandatory). Please include CVE/CVSS details, where available, along with your contact details.
+2. XO will analyse the report in a timely manner and if found credible, depending on the complexity, XO will propose a time and format for public disclosure.
+3. You, the reporter may publish your discovery after the agreed timeframe or co-ordinate with us.
+4. If your report was found to be credible, XO will also acknowledge you on this page along with the number of disclosures. No other bounties/prizes are guaranteed

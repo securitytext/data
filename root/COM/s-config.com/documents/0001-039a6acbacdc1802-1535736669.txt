@@ -1,0 +1,10 @@
+# Contact information should never have a logical e-mail address. That's how you invite spammers.
+Contact: https://www.s-config.com/contact/
+# I don't give out public PGP keys.
+Encryption: 
+# If I get legit security contacts. I'll make a separate page. Until then!
+Acknowledgements: https://www.s-config.com/cellar-door/
+# I might expand on the policy later.
+Policy: https://www.s-config.com/faq/
+# Don't care.
+signature: 

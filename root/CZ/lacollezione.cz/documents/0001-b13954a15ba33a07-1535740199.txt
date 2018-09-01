@@ -1,0 +1,5 @@
+Contact: mailto:security@solidpixels.net
+Contact: https://www.solidpixels.net/en/contact
+Contact: https://www.solidpixels.net/cs/kontakt
+Encryption: https://www.solidpixels.net/pgp-key.txt
+Signature: https://www.solidpixels.net/.well-known/security.txt.sig

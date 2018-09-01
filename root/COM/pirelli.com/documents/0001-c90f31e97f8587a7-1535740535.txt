@@ -1,0 +1,3 @@
+Contact: mailto:cert@pirelli.com
+Encryption: https://www.pirelli.com/.well-known/cert-pirelli-key.txt
+

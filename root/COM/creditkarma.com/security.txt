@@ -1,0 +1,13 @@
+Contact: https://www.creditkarma.com/about/security
+Contact: mailto:vulnerabilities@creditkarma.com
+
+# Email: vulnerabilities@creditkarma.com
+# Key ID: 68E6E06D
+# Fingerprint: 72D3 93A4 9B1B D913 F164  DD42 21A9 81EC 68E6 E06D
+
+Encryption: https://pgp.mit.edu/pks/lookup?search=0x68E6E06D
+
+Policy: https://bugcrowd.com/creditkarma
+#Our bug bounty program is managed by Bugcrowd: https://bugcrowd.com/creditkarma
+
+Hiring: https://www.creditkarma.com/careers

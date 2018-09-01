@@ -1,0 +1,5 @@
+# Our security address
+Contact: graham@grahamcluley.com
+
+# Our PGP key
+Encryption: https://pgp.mit.edu/pks/lookup?op=get&search=0x893FDA15B2A24531

@@ -1,0 +1,6 @@
+Contact: https://www.shopify.com/security-response
+Contact: mailto:security@shopify.com
+Encryption: https://www.shopify.com/shopify-security.pub
+Policy: https://hackerone.com/shopify
+Acknowledgments: https://hackerone.com/shopify/thanks
+Hiring: https://www.shopify.com/careers

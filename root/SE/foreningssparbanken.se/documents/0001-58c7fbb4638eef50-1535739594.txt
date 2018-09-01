@@ -1,0 +1,5 @@
+==== BEGIN security.txt ====
+Contact: mailto:responsible-disclosure@swedbank.com
+Encryption: https://www.swedbank.se/idc/groups/public/@i/@sc/@all/@ss/documents/regulation/cid_1612438.asc
+Policy: https://www.swedbank.se/om-swedbank/sakerhet/?contentid=cid_1605327
+==== END security.txt ====

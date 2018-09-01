@@ -1,0 +1,2 @@
+Contact: security@fanduel.com
+Encryption: https://fanduel.com/security-pgp-key.txt

@@ -1,0 +1,2 @@
+Contact: security@liquidlight.co.uk
+Encryption: https://www.liquidlight.co.uk/downloads/pgp/security.asc

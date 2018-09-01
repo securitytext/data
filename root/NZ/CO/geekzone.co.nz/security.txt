@@ -1,0 +1,4 @@
+Contact: security@geekzone.co.nz
+Contact: https://twitter.com/freitasm
+Encryption: https://keybase.io/freitasm/pgp_keys.asc
+Policy: https://www.geekzone.co.nz/content.asp?contentid=105

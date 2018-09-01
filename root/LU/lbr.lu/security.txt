@@ -1,0 +1,6 @@
+Contact: mailto:security@ctie.etat.lu
+Contact: https://www.govcert.lu/online_form
+Contact: mailto:soc@govcert.etat.lu
+Contact: mailto:ctie@protonmail.com
+Encryption: https://security.public.lu/.well-known/publickey.txt
+Signature: https://security.public.lu/.well-known/security.txt.sig

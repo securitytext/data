@@ -1,0 +1,2 @@
+Contact: mailto:security@workato.com
+Encryption: https://pgp.workato.com/pgp-key.txt

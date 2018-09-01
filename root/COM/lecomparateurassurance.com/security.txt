@@ -1,0 +1,3 @@
+﻿# If you would like to report a security issue
+# you may contact us by email.
+Contact: mailto:technique@meilleureassurance.com

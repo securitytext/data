@@ -1,0 +1,6 @@
+Contact: mailto:productcert@siemens.com
+Encryption: https://cert-portal.siemens.com/productcert/pgp/productcert-siemens-com.asc
+Policy: https://www.siemens.com/cert/vulnerability-process
+Acknowledgements: https://www.siemens.com/cert/hallofthanks
+Hiring: https://www.siemens.com/jobs/cybersecurity
+Signature: https://www.siemens.com/.well-known/security.txt.sig

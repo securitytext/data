@@ -1,0 +1,3 @@
+Contact: https://bugbounty.jp/program/0602f8c6f136dbbd92fbb909
+Policy: https://bugbounty.jp/program/0602f8c6f136dbbd92fbb909
+Acknowledgments: https://bugbounty.jp/corps/ranking/0602f8c6f136dbbd92fbb909

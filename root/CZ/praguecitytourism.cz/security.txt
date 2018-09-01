@@ -1,0 +1,2 @@
+Contact: security@fg.cz
+Encryption: https://www.fg.cz/pgp.asc

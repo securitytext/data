@@ -1,0 +1,5 @@
+# Vend uses HackerOne for responsible disclosure.
+Contact: https://hackerone.com/vend
+Contact: mailto:security@vendhq.com
+Acknowledgements: https://hackerone.com/vend/thanks
+Policy: https://hackerone.com/vend?view_policy=true

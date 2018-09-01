@@ -1,0 +1,6 @@
+# security.txt for zoho.eu
+# To report abuse of our services, please contact: abuse@zohocorp.com
+Contact: https://bugbounty.zoho.com/bb/#/submitbug
+Contact: mailto:security@zohocorp.com
+Acknowledgements: https://bugbounty.zoho.com/bb/info#hof
+Policy: https://bugbounty.zoho.com/bb/info#guide

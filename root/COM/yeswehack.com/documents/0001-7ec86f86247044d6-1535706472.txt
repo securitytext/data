@@ -1,0 +1,7 @@
+#
+# SECURITY.TXT for yeswehack.com
+# https://securitytxt.org/
+#
+Contact: https://zerodisclo.com/
+Contact: zerodisclo@yeswehack.com
+Encryption: https://zerodisclo.com/static/media/zerodisclo.txt

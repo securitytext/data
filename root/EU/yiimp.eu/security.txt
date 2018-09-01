@@ -1,0 +1,3 @@
+Disallow: *
+Contact: http://webchat.freenode.net/?channels=#yiimp
+Out-of-scope-vuln: Self-XSS

@@ -1,0 +1,7 @@
+Contact: mailto:security@ahgora.com.br
+Encryption: 
+Acknowledgements: 
+Policy: 
+Signature: 
+Hiring: https://www.ahgora.com.br/hcm/contato/
+OpenBugBounty: https://openbugbounty.org/bugbounty/AhgoraS/

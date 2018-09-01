@@ -1,0 +1,2 @@
+Contact: security@betawerk.nl
+OpenBugBounty: https://openbugbounty.org/bugbounty/Betawerkbeheer/

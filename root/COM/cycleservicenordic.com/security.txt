@@ -1,0 +1,5 @@
+# Our security address
+Contact: mailto:dennis@chainbox.dk
+
+# Our PGP key
+Encryption: https://www.chainbox.dk/.well-known/security.txt-pgp

@@ -1,0 +1,2 @@
+Contact: security@vorsk.com
+Encryption: https://keybase.io/lanrat/key.asc

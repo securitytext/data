@@ -1,0 +1,5 @@
+Contact: security@mollie.com
+Encryption: https://www.mollie.com/security.aexpk
+Policy: https://www.mollie.com/en/responsible-disclosure
+Signature: https://www.mollie.com/.well-known/security.txt.sig
+Hiring: https://jobs.mollie.com/

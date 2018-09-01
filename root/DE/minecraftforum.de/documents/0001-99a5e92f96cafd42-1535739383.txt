@@ -1,0 +1,5 @@
+Contact: contact AT minecraftforum DOT de
+Encryption: https://pgp.mit.edu/pks/lookup?op=get&search=0x4CF76925833E2E24
+Acknowledgement: https://minecraftforum.de/forum/4-ank%C3%BCndigungen-und-neues/
+Policy: 
+signature: 

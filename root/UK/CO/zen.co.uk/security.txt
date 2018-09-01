@@ -1,0 +1,4 @@
+# If you would like to report a security issue or concern with this website,
+# please do so by emailing security@zen.co.uk. 
+# We will respond to your message as soon as possible.
+Contact: security@zen.co.uk

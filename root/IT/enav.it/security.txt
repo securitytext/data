@@ -1,0 +1,2 @@
+Contact: mailto:cert@enav.it
+Encryption: https://www.enav.it/sites/public/it/Servizi/Documenti/cert-enav-key.txt

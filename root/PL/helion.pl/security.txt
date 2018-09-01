@@ -1,0 +1,2 @@
+Contact: security@helion.pl
+Encryption: https://helion.pl/security-helion-pubkey.txt

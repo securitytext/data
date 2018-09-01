@@ -1,0 +1,6 @@
+Contact: mailto:info@whatismybrowser.com
+Encryption: https://cdn.whatismybrowser.com/gpg/WhatIsMyBrowser-info.asc
+Acknowledgements: https://www.whatismybrowser.com/about/security/#acknowledgements
+Policy: https://www.whatismybrowser.com/about/security/#policy
+Signature: 
+Hiring: 

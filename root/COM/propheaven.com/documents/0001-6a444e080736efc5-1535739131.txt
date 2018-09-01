@@ -1,0 +1,3 @@
+# If you would like to report a security issue
+# please do so to the following address:
+Contact: mailto:support@podinteractive.com
