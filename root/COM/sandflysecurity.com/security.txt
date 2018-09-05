@@ -1,0 +1,14 @@
+# If you need to report a security issue or contact us in confidence, 
+# you can use the information below. 
+
+# Our security contact details
+Contact: mailto:security@sandflysecurity.com
+Contact: @SandflySecurity
+Contact: https://www.sandflysecurity.com/contact-us
+
+# Our PGP key
+Encryption: https://www.sandflysecurity.com/.well-known/publickey.txt
+
+# Verify this security.txt file
+Signature: https://www.sandflysecurity.com/.well-known/security.txt.asc
+
