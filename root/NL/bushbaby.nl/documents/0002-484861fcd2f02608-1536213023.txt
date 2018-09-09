@@ -1,0 +1,4 @@
+Contact: security at bushbaby nl
+Encryption: https://bushbaby.nl/.well-known/security-pgp-key.txt
+Policy: .well-known/security-policy.jpg
+Signature: .well-known/security.txt.sig

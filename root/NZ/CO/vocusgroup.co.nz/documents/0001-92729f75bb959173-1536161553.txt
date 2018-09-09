@@ -1,0 +1,17 @@
+# Our email address that researchers MAY use for reporting security issues.
+Contact: mailto:security@vocusgroup.co.nz
+
+# Our PGP key. When it comes to verifying the authenticity of the key, it is always the security researcher's responsibility to make sure the key being specified is indeed one they trust.  Researchers MUST NOT assume that this key is used to generate the signature file referenced in the "Signature:" section below.
+Encryption: https://www.vocusgroup.co.nz/.well-known/pgp-key-E24A7B33.txt
+
+# If you would like to be publicly recognised or acknowledged for your report
+Acknowledgements: can be arranged on request
+
+# Our security policy
+Policy: https://www.vocusgroup.co.nz/.well-known/security-policy.txt
+
+# Verify this security.txt file. When it comes to verifying the authenticity of the file, it is always the security researcher's responsibility to make sure the key being specified is indeed one they trust.
+Signature: https://www.vocusgroup.co.nz/.well-known/security.txt.sig
+
+# Our jobs
+Hiring: https://www.jumpship.co.nz/home

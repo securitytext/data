@@ -1,0 +1,11 @@
+# Our security address
+Contact: security@healthengine.com.au
+
+# Our PGP key
+Encryption: https://healthengine.com.au/pgp-key.txt
+
+# Our security acknowledgements page
+Acknowledgements: https://healthengine.com.au/hall-of-fame.html
+
+# Verify this security.txt file
+Signature: https://healthengine.com.au/.well-known/security.txt.sig
