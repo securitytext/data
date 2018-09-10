@@ -1,0 +1,4 @@
+Contact: security@opertorict.cz
+Encryption: https://pidlitacka.cz/.well-known/security.asc
+Acknowledgement: https://pidlitacka.cz/.well-known/acknowledgement.txt
+Signature: https://pidlitacka.cz/.well-known/security.txt.sig
