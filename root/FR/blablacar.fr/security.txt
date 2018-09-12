@@ -1,0 +1,9 @@
+#
+# SECURITY.TXT for BlaBlaCar
+# https://securitytxt.org/
+#
+# If you would like to report a security issue
+# you may report it to me on Bounty Factory
+Contact: https://bountyfactory.io/blablacar/bug-bounty-program-blablacar
+Acknowledgement: https://bountyfactory.io/ranking
+Hiring: https://www.blablacar.com/dreamjobs
