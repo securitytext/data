@@ -1,0 +1,2 @@
+Contact: aidan@skerry.me
+Encryption: https://aidan.skerry.me/pgp/
