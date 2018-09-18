@@ -1,0 +1,9 @@
+Contact: https://hackerone.com/jamieweb
+Contact: https://www.jamieweb.net/contact/
+Policy: https://hackerone.com/jamieweb
+Acknowledgement: https://hackerone.com/jamieweb
+Signature: https://www.jamieweb.net/.well-known/security.txt.sig
+
+# This file is available identically at these locations:
+# https://www.jamieweb.net/.well-known/security.txt
+# https://www.jamieweb.net/security.txt
