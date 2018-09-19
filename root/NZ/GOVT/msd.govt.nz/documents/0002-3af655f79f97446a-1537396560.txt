@@ -1,0 +1,11 @@
+# If you discover a security vulnerability on one of our websites
+# please contact us:
+
+# Our security address
+Contact: it_security@msd.govt.nz
+
+# Our PGP key
+Encryption: https://pgp.mit.edu/pks/lookup?op=get&search=0x4FF711A8795E7887
+
+# Verify this security.txt file
+Signature: https://msd.govt.nz/.well-known/security.txt.sig
