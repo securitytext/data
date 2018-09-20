@@ -1,0 +1,3 @@
+Contact: security@dswiss.com
+Encryption: https://dswiss.com/.well-known/pgp-key.txt
+signature: https://dswiss.com/.well-known/security.txt.sig

@@ -1,0 +1,5 @@
+# Our security address
+Contact: me@austinheap.com
+
+# Our PGP key
+Encryption: http://www.austinheap.com/me_at_austinheap_dot_com.pgpkey
