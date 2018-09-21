@@ -1,0 +1,4 @@
+Contact: security@thehighwaystar.com
+Encryption: https://www.thehighwaystar.com/security@thehighwaystar.com.pub
+Signature: https://www.thehighwaystar.com/.well-known/security.txt.sig
+

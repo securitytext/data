@@ -1,0 +1,5 @@
+Contact: security@drugs.com
+Encryption: https://www.drugs.com/support/drugscom-security.pub
+Acknowledgements: https://www.drugs.com/support/security-hall-of-fame.html
+Policy: https://www.drugs.com/support/responsible-disclosure-policy.html
+Signature: https://www.drugs.com/.well-known/security.txt.sig

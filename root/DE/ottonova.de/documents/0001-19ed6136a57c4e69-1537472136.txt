@@ -1,0 +1,6 @@
+Contact: mailto:akatzig@ottonova.de
+Contact: mailto:security@ottonova.de
+Encryption: https://keybase.io/derfunk/pgp_keys.asc?fingerprint=e5699481b960cea5bc813ce281f858e246a04a97
+Permission: none
+Signature: https://www.ottonova.de/.well-known/security.txt.sig
+Hiring: https://www.ottonova.de/jobs

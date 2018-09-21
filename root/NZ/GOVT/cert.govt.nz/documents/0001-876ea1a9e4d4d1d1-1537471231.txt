@@ -1,0 +1,11 @@
+# Our security address
+Contact: mailto:disclosure@ops.cert.govt.nz
+
+# Our PGP key
+Encryption: https://pgp.mit.edu/pks/lookup?op=get&search=0x8EB8FFBDD973476E
+
+# Our coordinated vulnerability disclosure policy
+Policy: https://www.cert.govt.nz/it-specialists/guides/reporting-a-vulnerability/cert-nz-coordinated-vulnerability-disclosure-policy/
+
+# Verify this security.txt file
+Signature: https://cert.govt.nz/.well-known/security.txt.sig
