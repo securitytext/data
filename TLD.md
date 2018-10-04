@@ -2,7 +2,7 @@
 
 
 
-_Last updated at 2018-10-03 07:30:05 by [securitytext.org](https://securitytext.org)._
+_Last updated at 2018-10-04 07:30:08 by [securitytext.org](https://securitytext.org)._
 
 
 
@@ -614,6 +614,8 @@ The following top level domain prefixes are supported:
 * aparecida.br
 
 * apartments
+
+* apigee.io
 
 * app
 
@@ -4841,8 +4843,6 @@ The following top level domain prefixes are supported:
 
 * goo
 
-* goodhands
-
 * goodyear
 
 * goog
@@ -6542,8 +6542,6 @@ The following top level domain prefixes are supported:
 * jio
 
 * jl.cn
-
-* jlc
 
 * jll
 
@@ -11053,8 +11051,6 @@ The following top level domain prefixes are supported:
 
 * panasonic
 
-* panerai
-
 * pantheonsite.io
 
 * parachuting.aero
@@ -13545,8 +13541,6 @@ The following top level domain prefixes are supported:
 
 * tele.amune.org
 
-* telecity
-
 * telefonica
 
 * telekommunikation.museum
@@ -14582,8 +14576,6 @@ The following top level domain prefixes are supported:
 * visa
 
 * vision
-
-* vista
 
 * vistaprint
 
