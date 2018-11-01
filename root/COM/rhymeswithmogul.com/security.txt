@@ -1,0 +1,3 @@
+Contact: colincogle@startmail.com
+Encryption: https://rhymeswithmogul.com/colincogle@startmail.com.asc
+Signature: https://rhymeswithmogul.com/.well-known/security.txt.sig

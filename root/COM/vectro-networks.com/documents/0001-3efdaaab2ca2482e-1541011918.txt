@@ -1,0 +1,18 @@
+# My name is Colin, the webmaster for this fine Web site.
+# For all security-related issues, please email me directly.
+Contact: ccogle@vectro-networks.com
+
+# I highly recommend that you encrypt emails sent to me.
+# My work key is linked below, or you can find it on keyservers.
+Encryption: http://www.vectro-networks.com/contacts/ccogle@vectro-networks.com.asc
+
+# If this Web site doesn't have a humans.txt file, it
+# definitely will after I fix whatever you're reporting.
+Acknowledgement: http://www.vectro-networks.com/humans.txt
+
+# This file was last modified December 15, 2017.
+Signature:  https://remote.vectro-networks.com/security-txt/vectro-networks.com.sig
+
+# Not sure what you're reading?  Learn more about security.txt
+# on Github, where I contribute the occasional thing.
+#     https://github.com/securitytxt/security-txt
