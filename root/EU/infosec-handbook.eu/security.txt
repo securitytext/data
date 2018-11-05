@@ -1,0 +1,8 @@
+# Our security address
+Contact: https://infosec-handbook.eu/contact/
+
+# Our PGP key
+Encryption: https://infosec-handbook.eu/contact/
+
+# Verify this security.txt file
+Signature: https://infosec-handbook.eu/.well-known/security.txt.sig
