@@ -1,0 +1,6 @@
+Contact: mailto:security@vimeo.com
+Encryption: https://vimeo.com/.well-known/security-pubkey.txt
+Acknowledgements: https://vimeo.com/about/security
+Policy: https://hackerone.com/vimeo
+Signature: https://vimeo.com/.well-known/security.txt.sig
+Hiring: https://vimeo.com/jobs
