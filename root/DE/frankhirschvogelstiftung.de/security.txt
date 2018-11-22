@@ -1,0 +1,6 @@
+#
+# SECURITY.TXT for frankhirschvogelstiftung.de
+# https://securitytxt.org/
+#
+Contact: it-security@hirschvogel.com
+Contact: https://frankhirschvogelstiftung.de/kontakt/
