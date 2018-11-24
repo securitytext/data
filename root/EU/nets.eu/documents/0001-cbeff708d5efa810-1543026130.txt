@@ -1,0 +1,4 @@
+# If you would like to report a security issue
+# you may report it to NetsCERT Team.
+Contact: nets-cert@nets.eu
+Encryption: http://hkps.pool.sks-keyservers.net/pks/lookup?op=get&search=0x10D59E9BE2759984
