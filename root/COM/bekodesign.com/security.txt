@@ -1,0 +1,3 @@
+Contact: mailto:security@bekodesign.com
+Encryption: https://www.bekodesign.com/well-known/pgp-key.txt
+Policy: https://www.bekodesign.com/vulnerability-reporting-policy/
