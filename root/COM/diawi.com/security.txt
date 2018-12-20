@@ -1,0 +1,8 @@
+# Diawi.com security contact information
+Contact: mailto:security@diawi.com
+
+# Diawi.com PGP public key (fingerprint: CF3F E1B9 596F EFC4 92A5  C59B 9E8E 516B 50C0 C1C2)
+Encryption: https://www.diawi.com/key.asc
+
+# Verify this security.txt file
+Signature: https://www.diawi.com/.well-known/security.txt.sig
