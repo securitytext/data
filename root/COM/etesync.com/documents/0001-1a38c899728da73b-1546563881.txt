@@ -1,0 +1,2 @@
+Contact: security@etesync.com
+Acknowledgements: https://www.etesync.com/about/#security
