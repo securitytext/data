@@ -1,5 +1,6 @@
 Contact: security@saxobank.com
 
+Policy: https://www.home.saxo/legal/vulnerability-disclosure-policy/vulnerability-disclosure-policy
 Encryption: https://www.home.saxo/-/media/files/security-pgp.txt
 Signature: https://www.home.saxo/.well-known/security.txt.sig
 
