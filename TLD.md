@@ -2,7 +2,7 @@
 
 
 
-_Last updated at 2019-01-28 07:30:04 by [securitytext.org](https://securitytext.org)._
+_Last updated at 2019-01-29 07:30:04 by [securitytext.org](https://securitytext.org)._
 
 
 
@@ -68,6 +68,8 @@ The following top level domain prefixes are supported:
 * a.bg
 
 * a.prod.fastly.net
+
+* a.run.app
 
 * a.se
 
@@ -160,6 +162,8 @@ The following top level domain prefixes are supported:
 * ac.leg.br
 
 * ac.lk
+
+* ac.ls
 
 * ac.ma
 
@@ -1329,6 +1333,8 @@ The following top level domain prefixes are supported:
 
 * biz.ki
 
+* biz.ls
+
 * biz.mv
 
 * biz.mw
@@ -1768,8 +1774,6 @@ The following top level domain prefixes are supported:
 * buzz
 
 * bv
-
-* bv.nl
 
 * bw
 
@@ -3243,6 +3247,8 @@ The following top level domain prefixes are supported:
 
 * dgca.aero
 
+* dh.bytemark.co.uk
+
 * dhl
 
 * diamonds
@@ -3660,6 +3666,8 @@ The following top level domain prefixes are supported:
 * edu.lk
 
 * edu.lr
+
+* edu.ls
 
 * edu.lv
 
@@ -5031,6 +5039,8 @@ The following top level domain prefixes are supported:
 
 * gov.lr
 
+* gov.ls
+
 * gov.lt
 
 * gov.lv
@@ -6199,6 +6209,8 @@ The following top level domain prefixes are supported:
 
 * info.la
 
+* info.ls
+
 * info.mv
 
 * info.na
@@ -6242,6 +6254,8 @@ The following top level domain prefixes are supported:
 * ink
 
 * ino.kochi.jp
+
+* instantcloud.cn
 
 * institute
 
@@ -7373,6 +7387,8 @@ The following top level domain prefixes are supported:
 
 * krakow.pl
 
+* krasnik.pl
+
 * krasnodar.su
 
 * krd
@@ -7647,6 +7663,8 @@ The following top level domain prefixes are supported:
 
 * le.it
 
+* leadpages.co
+
 * leangaviika.no
 
 * lease
@@ -7664,6 +7682,8 @@ The following top level domain prefixes are supported:
 * lecco.it
 
 * leclerc
+
+* leczna.pl
 
 * lefrak
 
@@ -7971,9 +7991,13 @@ The following top level domain prefixes are supported:
 
 * loyalist.museum
 
+* lpages.co
+
 * lpl
 
 * lplfinancial
+
+* lpusercontent.com
 
 * lr
 
@@ -8011,7 +8035,11 @@ The following top level domain prefixes are supported:
 
 * lu.it
 
+* lubartow.pl
+
 * lubin.pl
+
+* lublin.pl
 
 * lucania.it
 
@@ -9087,6 +9115,8 @@ The following top level domain prefixes are supported:
 
 * mydissent.net
 
+* mydobiss.com
+
 * mydrobo.com
 
 * myds.me
@@ -9602,6 +9632,8 @@ The following top level domain prefixes are supported:
 * net.lk
 
 * net.lr
+
+* net.ls
 
 * net.lv
 
@@ -10477,6 +10509,8 @@ The following top level domain prefixes are supported:
 
 * online.museum
 
+* online.th
+
 * onna.okinawa.jp
 
 * ono.fukui.jp
@@ -11333,6 +11367,8 @@ The following top level domain prefixes are supported:
 
 * pomorze.pl
 
+* poniatowa.pl
+
 * ponpes.id
 
 * pordenone.it
@@ -11663,6 +11699,8 @@ The following top level domain prefixes are supported:
 
 * readmyblog.org
 
+* readthedocs.io
+
 * realestate
 
 * realestate.pl
@@ -11946,6 +11984,8 @@ The following top level domain prefixes are supported:
 * ruhr
 
 * run
+
+* run.app
 
 * ruovat.no
 
@@ -12236,6 +12276,8 @@ The following top level domain prefixes are supported:
 * sc.kr
 
 * sc.leg.br
+
+* sc.ls
 
 * sc.tz
 
@@ -12719,6 +12761,8 @@ The following top level domain prefixes are supported:
 
 * shop.ro
 
+* shop.th
+
 * shopping
 
 * shouji
@@ -12776,6 +12820,8 @@ The following top level domain prefixes are supported:
 * sirdal.no
 
 * site
+
+* siteleaf.net
 
 * sites.static.land
 
@@ -13075,8 +13121,6 @@ The following top level domain prefixes are supported:
 
 * station.museum
 
-* statoil
-
 * stavanger.no
 
 * stavern.no
@@ -13246,6 +13290,8 @@ The following top level domain prefixes are supported:
 * sweetpepper.org
 
 * swidnica.pl
+
+* swidnik.pl
 
 * swiebodzin.pl
 
@@ -13540,6 +13586,10 @@ The following top level domain prefixes are supported:
 * tel.tr
 
 * tele.amune.org
+
+* telebit.app
+
+* telebit.io
 
 * telefonica
 
@@ -14601,6 +14651,8 @@ The following top level domain prefixes are supported:
 
 * vlog.br
 
+* vm.bytemark.co.uk
+
 * vn
 
 * vn.ua
@@ -14890,6 +14942,8 @@ The following top level domain prefixes are supported:
 * world
 
 * wow
+
+* wpcomstaging.com
 
 * wpdevcloud.com
 
