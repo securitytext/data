@@ -1,0 +1,8 @@
+#
+# SECURITY.TXT for OCCRP.ORG
+# https://securitytxt.org/
+#
+Contact: security@occrp.org
+Encryption: https://www.occrp.org/security@occrp.org.txt
+Disclosure: Partial
+Acknowledgement: https://www.occrp.org/en/responsible-disclosure#hall-of-fame
