@@ -2,7 +2,7 @@
 
 
 
-_Last updated at 2019-02-05 07:30:04 by [securitytext.org](https://securitytext.org)._
+_Last updated at 2019-02-06 07:30:04 by [securitytext.org](https://securitytext.org)._
 
 
 
@@ -619,6 +619,8 @@ The following top level domain prefixes are supported:
 
 * apartments
 
+* api.stdlib.com
+
 * apigee.io
 
 * app
@@ -632,6 +634,8 @@ The following top level domain prefixes are supported:
 * appchizi.com
 
 * apple
+
+* applicationcloud.io
 
 * applinzi.com
 
@@ -1727,6 +1731,8 @@ The following top level domain prefixes are supported:
 
 * bsb.br
 
+* bss.design
+
 * bt
 
 * bt.it
@@ -2411,6 +2417,8 @@ The following top level domain prefixes are supported:
 
 * co.bi
 
+* co.business
+
 * co.bw
 
 * co.ca
@@ -2428,6 +2436,12 @@ The following top level domain prefixes are supported:
 * co.cz
 
 * co.dk
+
+* co.education
+
+* co.events
+
+* co.financial
 
 * co.gg
 
@@ -2477,6 +2491,8 @@ The following top level domain prefixes are supported:
 
 * co.na
 
+* co.network
+
 * co.ni
 
 * co.nl
@@ -2489,6 +2505,8 @@ The following top level domain prefixes are supported:
 
 * co.pl
 
+* co.place
+
 * co.pn
 
 * co.pw
@@ -2500,6 +2518,8 @@ The following top level domain prefixes are supported:
 * co.st
 
 * co.sz
+
+* co.technology
 
 * co.th
 
@@ -12286,6 +12306,8 @@ The following top level domain prefixes are supported:
 * sc.us
 
 * sca
+
+* scapp.io
 
 * scb
 
