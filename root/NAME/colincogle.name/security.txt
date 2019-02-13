@@ -1,0 +1,3 @@
+Contact: colin@colincogle.name
+Encryption: https://colincogle.name/colin@colincogle.name.asc
+Signature: https://colincogle.name/.well-known/security.txt.sig
